@@ -40,7 +40,7 @@ include '_header.php';
 				<tr>
 					<th rowspan="2">No. Ujian</th>
 					<th rowspan="2">Nama Siswa</th>
-					<th rowspan="2">Kompetensi Keahlian</th>
+					<th rowspan="2">Jurusan</th>
 					<th colspan="4">Nilai UN</th>
 					<th rowspan="2">Status</th>
 				</tr>
@@ -48,7 +48,7 @@ include '_header.php';
 					<th>Bahasa Indonesia</th>
 					<th>Bahasa Inggris</th>
 					<th>Matematika</th>
-					<th>Kejuruan</th>
+					<th>Mapel Pilihan</th>
 				</tr>
 			</thead>
 			<tbody>
