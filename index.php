@@ -63,7 +63,7 @@ $timestamp = strtotime($hsl['tgl_pengumuman']);
 			<table class="table table-bordered">
 				<tr><td>Nomor Ujian</td><td><?php echo $data['no_ujian']; ?></td></tr>
 				<tr><td>Nama Siswa</td><td><?php echo $data['nama']; ?></td></tr>
-				<tr><td>Kompetensi Keahlian</td><td><?php echo $data['komli']; ?></td></tr>
+				<tr><td>Jurusan</td><td><?php echo $data['komli']; ?></td></tr>
 			</table>
 			<table class="table table-bordered">
 				<thead>
@@ -71,7 +71,7 @@ $timestamp = strtotime($hsl['tgl_pengumuman']);
 					<th>Bahasa Indonesia</th>
 					<th>Bahasa Inggris</th>
 					<th>Matematika</th>
-					<th>Kejuruan</th>
+					<th>Mapel Pilihan</th>
 				</tr>
 				</thead>
 				<tbody>
