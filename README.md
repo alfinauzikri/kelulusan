@@ -1,4 +1,4 @@
-# Aplikasi Pengumuman Kelulusan SMK
+# Aplikasi Pengumuman Kelulusan SMA
 Ini merupakan aplikasi berbasis web (PHP, MySQL/MariaDB) yang dapat dimanfaatkan untuk pengumuman kelulusan sekolah (SMK). Dengan aplikasi ini, siswa tidak perlu lagi datang ke sekolah untuk mengetahui hasil kelulusannya, cukup dengan akses internet (via komputer atau gadget). Dengan siswa mengakses web resmi sekolah, tentu akan meningkatkan visit-rate.
 
 ## Update
