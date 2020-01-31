@@ -13,7 +13,7 @@ Ini merupakan aplikasi berbasis web (PHP, MySQL/MariaDB) yang dapat dimanfaatkan
 4. jQuery dan sebagainya yang bisa dilihat dalam langsung pada file-file yang ada.
 
 ## Cara instal
-1. Unduh telebih dahulu file [Kelulusan](https://github.com/slametbsan/kelulusan/archive/kelulusan.zip)
+1. Unduh telebih dahulu file [Kelulusan](https://github.com/alfinauzikri/kelulusan/archive/kelulusan.zip)
 2. Ekstrak dengan menggunakan _tools_ favorit anda: 7zip, WinRAR, WinZip, atau yang lain.
 3. Login ke cPanel web sekolah anda, 
   * buat direktori/folder (misalnya: *lulus*) dalam direktori _document root_ (www, public_html, atau htdocs) pada server anda.
@@ -25,7 +25,7 @@ Ini merupakan aplikasi berbasis web (PHP, MySQL/MariaDB) yang dapat dimanfaatkan
 define('DB_HOST','localhost');  //alamat server database, umumnya 'localhost'
 define('DB_USER','root');       //ganti dengan nama user database
 define('DB_PASS','');           //isi dengan password user database
-define('DB_NAME','un2016');     //ganti dengan nama database yang telah dibuat
+define('DB_NAME','un2020');     //ganti dengan nama database yang telah dibuat
 ```
 6. Buka laman *phpMyAdmin* dari cPanel dan impor file **un2016.sql** ke dalam database yang telah dibuat pada langkah-3.
 7. Jika sudah, anda dapat mengakses halaman kelulusan (misalnya: http://websekolah.sch.id/lulus/) dan halaman admin (misalnya: http://websekolah.sch.id/lulus/admin/)
